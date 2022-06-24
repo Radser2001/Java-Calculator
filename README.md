@@ -1,3 +1,3 @@
-#Calculator in Java
+# Calculator in Java
 
 A simple calculator program to learn Java ♨ 
