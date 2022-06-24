@@ -27,7 +27,7 @@ public class Calculator implements ActionListener {
         frame.setSize(310, 440);
         frame.setLayout(null);
 
-        image = new ImageIcon("icon.png");
+        image = new ImageIcon("E:/Programming/Java/Projects/Calculator/icons/icon.png");
         frame.setIconImage(image.getImage());
 
         textField = new JTextField();
